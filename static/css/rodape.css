@@ -1,0 +1,16 @@
+.rodape {
+    width: 100vw;
+    height: 10vh;
+    background-color: #fdfdfd;
+    box-shadow: 0 1px 3px gray;
+}
+
+.logo-rodape {
+    width: 20vw;
+    height: 8.5vh;
+    transform: translate(1vw, 1.5vh);
+    background-image: url('../img/logo-horizontal.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

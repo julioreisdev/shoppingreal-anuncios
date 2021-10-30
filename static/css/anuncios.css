@@ -1,0 +1,9 @@
+.anuncios {
+    width: 100vw;
+    height: 90vh;
+}
+
+.img-anuncio {
+    width: 50%;
+    margin: 0 auto;
+}
